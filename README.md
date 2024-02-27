@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="" alt="wajid_shar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/SHAR_BALOUCH1" target="blank"><img src="https://img.shields.io/twitter/follow/aftab_hussains?logo=twitter&style=for-the-badge" alt="Wajid_Shar" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SHAR_BALOUCH1" target="blank"><img src="https://img.shields.io/twitter/follow/SHAR_BALOUCH1?logo=twitter&style=for-the-badge" alt="Wajid_Shar" /></a> </p>
 
 - 🔭 I’m currently working on **Data Science**
 
