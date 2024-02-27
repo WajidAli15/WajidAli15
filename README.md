@@ -1,5 +1,5 @@
 [![MasterHead](https://images.squarespace-cdn.com/content/v1/6047ca3c6bae4359c8fdca85/1615321348433-U0P7ALKF0CLK5X6EJKT7/Google_Cloud_DataAnalytics-Bannergif.gif?format=2500w)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Aftab Hussain</h1>
+<h1 align="center">Hi 👋, I'm Wajid Ali</h1>
 <h3 align="center">“The world is one big data problem.”</h3>
 <img align="right" alt="coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aftabhussainshar&label=Profile%20views&color=0e75b6&style=flat" alt="aftabhussainshar" /> </p>
